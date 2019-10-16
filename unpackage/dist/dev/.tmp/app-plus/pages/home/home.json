@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "home-header": "/pages/home/components/header",
+    "home-swiper": "/pages/home/components/leeswiper"
+  }
+}
