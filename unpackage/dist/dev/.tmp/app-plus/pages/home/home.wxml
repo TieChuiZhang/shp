@@ -1,1 +1,1 @@
-<view class="_div"><home-header vue-id="1" bind:__l="__l"></home-header><home-swiper vue-id="2" bind:__l="__l"></home-swiper></view>
+<view class="_div"><home-header vue-id="1" bind:__l="__l"></home-header><home-swiper vue-id="2" bind:__l="__l"></home-swiper><home-icons vue-id="3" bind:__l="__l"></home-icons></view>

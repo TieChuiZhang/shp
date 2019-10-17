@@ -1,0 +1,14 @@
+.example-body.data-v-c5f2e9ea {
+  padding: 1rpx;
+  background: #fff;
+}
+.image.data-v-c5f2e9ea {
+  width: 80rpx;
+  height: 80rpx;
+}
+.text.data-v-c5f2e9ea {
+  top: 120px;
+  text-align: center;
+  font-size: 10px;
+}
+

@@ -2,6 +2,7 @@
   "navigationStyle": "custom",
   "usingComponents": {
     "home-header": "/pages/home/components/header",
-    "home-swiper": "/pages/home/components/leeswiper"
+    "home-swiper": "/pages/home/components/leeswiper",
+    "home-icons": "/pages/home/components/icons"
   }
 }

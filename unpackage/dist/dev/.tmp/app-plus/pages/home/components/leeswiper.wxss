@@ -1,4 +1,10 @@
-.swiper.data-v-534d5fb6 {
+.swiper.data-v-0ae2aff5 {
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  padding-bottom: 40%;
+}
+.swiper .swiper-img.data-v-0ae2aff5 {
   width: 100%;
 }
 
