@@ -32,7 +32,7 @@
 				iconList:[{
 					id:'0001',
 					imageUrl:'http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png',
-					desc:'景点门票'
+					desc:'景点门票票'
 				},
 				{
 					id:'0002',
